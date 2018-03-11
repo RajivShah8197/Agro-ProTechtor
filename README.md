@@ -53,10 +53,10 @@ Ngo's get the following functionalities:
 
 ### Examples
 #### *Plant Disease Detector*
-![](.github/Agro-ProTechtor-Plant.png)
+![](Plant.png)
 
 #### *Soil Type Predictor*
-![](.github/Agro-ProTechtor-Soil.png)
+![](Soil.png)
 
 ### Contribution
 Keen to help our brothers and sisters? Have better suggestions to assist Farmers?Then go ahead and send in a Pull Request!
